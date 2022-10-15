@@ -1,0 +1,21 @@
+.header-main
+{
+    padding: 2rem;
+}
+
+.main-body
+{
+    padding: 2rem;
+    font-size: larger;
+}
+
+
+body
+{
+    background-color:darkgray;
+}
+
+#show-message
+{
+    padding: 2rem;
+}

@@ -1,0 +1,1 @@
+# This project is about calculating profit/loss based on sellingprice, costprice and quantity
